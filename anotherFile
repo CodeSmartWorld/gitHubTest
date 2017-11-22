@@ -3,5 +3,5 @@
 hello reset [master] 
 1111111111
 *******hot_fix
----------hot_fix2[master]
+-[another confilc]--------hot_fix2[master]
 
